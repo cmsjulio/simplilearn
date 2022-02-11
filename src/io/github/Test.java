@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Test {
-    public ArrayList<String> lista;
+//    public ArrayList<String> lista;
 
     public Test (){}
 
@@ -17,10 +17,10 @@ public class Test {
         return string;
     }
 
-    public List<String> listar (String string){
-        lista.add(string);
-        System.out.println(this.lista);
-        return this.lista;
+//    public List<String> listar (String string){
+//        lista.add(string);
+//        System.out.println(this.lista);
+//        return this.lista;
 
     }
 

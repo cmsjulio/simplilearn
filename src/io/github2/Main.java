@@ -16,7 +16,6 @@ public class Main {
 //        t.listar("adicionado este elemento");
 
 
-        List<String> lista =
 
     }
 }
