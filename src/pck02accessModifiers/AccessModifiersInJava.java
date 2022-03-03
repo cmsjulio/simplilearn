@@ -1,7 +1,7 @@
 package pck02accessModifiers;
 
 public class AccessModifiersInJava {
-    public static void main ( String[] args){
+    public static void main (String[] args){
 
         /*
                         class   |   package |   subclass    |   world   |
