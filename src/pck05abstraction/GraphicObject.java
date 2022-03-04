@@ -1,0 +1,14 @@
+package pck05abstraction;
+
+public abstract class GraphicObject {
+    int x,y;
+
+    void moveTo(int newX, int newY){
+        System.out.println("move to x: " + x + ", and y: " + y);
+    }
+
+    abstract void draw();
+    abstract void resize();
+
+    //notice that we have both abstract and non abstract methods.
+}
