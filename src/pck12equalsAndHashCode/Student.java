@@ -1,4 +1,4 @@
-package pck21equalsAndHashCode;
+package pck12equalsAndHashCode;
 
 class Student {
   private int rollnumber;

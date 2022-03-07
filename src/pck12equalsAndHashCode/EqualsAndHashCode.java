@@ -1,4 +1,4 @@
-package pck21equalsAndHashCode;
+package pck12equalsAndHashCode;
 
 /*
 

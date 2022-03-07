@@ -8,7 +8,7 @@ package pck04encapsulation;
 
  */
 
-public class Student {
+class Student {
     private String name;
     private int age;
     private String address;
